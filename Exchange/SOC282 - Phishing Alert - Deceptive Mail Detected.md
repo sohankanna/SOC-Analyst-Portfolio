@@ -18,6 +18,7 @@ The initial alert was received from the SIEM dashboard:
 | **Recipient Address** | Felix@letsdefend.io |
 | **Email Subject** | Free Coffee Voucher |
 | **Malware Family** | SILENTBUILDER (Conti) |
+| **Case Link** | [View Full Case on LetsDefend.io](https://app.letsdefend.io/case-management/casedetail/sohankanna/257) |
 
 ## Investigation and Analysis
 
