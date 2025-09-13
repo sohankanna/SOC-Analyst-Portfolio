@@ -4,6 +4,8 @@
 
 On February 28, 2022, the Security Operations Center (SOC) received a critical alert for a command injection attack against **WebServer1004** (172.16.17.16). The attack originated from the IP address **61.177.172.87**, a known malicious actor. The investigation confirmed that the attacker successfully executed a series of commands by injecting them into the POST body of a request. The server responded with an **HTTP 200 OK** status and a non-zero response size, indicating that the command output, including the contents of the sensitive `/etc/passwd` and `/etc/shadow` files, was exfiltrated to the attacker. This is a **True Positive** for a successful system compromise that requires immediate escalation and full incident response activation.
 
+Case 
+
 ## Incident Details
 
 The initial alert was triggered by the detection of the `whoami` command in a request body:
@@ -17,7 +19,7 @@ The initial alert was triggered by the detection of the `whoami` command in a re
 | **Destination Host** | WebServer1004 (172.16.17.16) |
 | **Attack Type** | Command Injection |
 | **Malicious Payload** | POST Parameter: `?c=[command]` (e.g., `?c=whoami`) |
-
+| **Case Link** | [View Full Case on LetsDefend.io](https://app.letsdefend.io/case-management/casedetail/sohankanna/118) |
 ## Investigation and Analysis
 
 ### 1. Log Analysis and Attack Progression
