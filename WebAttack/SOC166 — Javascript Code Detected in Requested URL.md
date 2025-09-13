@@ -17,6 +17,7 @@ The initial alert was triggered by a suspicious URL request:
 | **Destination Host** | WebServer1002 (172.16.17.17) |
 | **Attack Type** | Cross-Site Scripting (XSS) |
 | **Malicious Payload** | `https://172.16.17.17/search/?q=<$script>javascript:$alert(1)<$/script>` |
+| **Case Link** | [View Full Case on LetsDefend.io](https://app.letsdefend.io/case-management/casedetail/sohankanna/116) |
 
 ## Investigation and Analysis
 
