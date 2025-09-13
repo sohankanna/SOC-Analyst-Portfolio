@@ -17,6 +17,7 @@ On February 25, 2022, the Security Operations Center (SOC) identified and analyz
 | **Attack Type** | SQL Injection |
 | **Payload (URL Encoded)** | `https://172.16.17.18/search/?q=%22%20OR%201%20%3D%201%20--%20` |
 | **Payload (Decoded)** | `https://172.16.17.18/search/?q=" OR 1 = 1 -- ` |
+| **Case Link** | [View Full Case on LetsDefend.io](https://app.letsdefend.io/case-management/casedetail/sohankanna/115) |
 
 ## Investigation and Analysis
 
