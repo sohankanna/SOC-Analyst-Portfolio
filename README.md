@@ -2,6 +2,8 @@
 
 This repository serves as a comprehensive portfolio of over 100 hands-on security alert investigations conducted on the [LetsDefend.io](https://letsdefend.io/) platform. This project is designed to demonstrate my practical skills in a simulated, enterprise-grade Security Operations Center (SOC) environment, showcasing an end-to-end incident analysis workflow.
 
+**➡️ View My Verified LetsDefend Profile & Transcript: [app.letsdefend.io/user/sohankanna](https://app.letsdefend.io/user/sohankanna)**
+
 ## About The Platform
 
 LetsDefend.io is a hands-on training platform that provides realistic SOC alerts and the tools necessary to investigate them, including a SIEM, EDR, email security gateway, and log management capabilities. Each investigation in this repository is a real case file from the platform.
