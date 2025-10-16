@@ -34,6 +34,14 @@ This project represents a significant volume of completed investigations. My con
   <br/>
   <em>Awarded the "Non-Stop" badge for sustained investigation efforts.</em>
 </p>
+    
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fce961b7-d766-4452-9cc9-6b11c8d1fd92" />
+  <br/>
+  <em>My performance on the platform reflects a high degree of accuracy and commitment, culminating in a 95% success rate across all investigated incidents.</em>
+</p>
+
+  
 
 ## Skills Demonstrated
 
